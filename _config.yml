@@ -1,3 +1,6 @@
 remote_theme: pages-themes/midnight@v0.2.0
 plugins:
 - jekyll-remote-theme
+
+title: Contos de um Noob
+description: notas de estudo e dicas para segurança da informação, pentesting e derivados

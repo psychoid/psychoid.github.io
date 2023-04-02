@@ -1,1 +1,0 @@
-# psychoid.github.io
